@@ -46,7 +46,7 @@ A sleek, modern, and highly interactive professional portfolio website built wit
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/deeptinirmalya/ProfessionalPortfolio.git
+   git clone https://github.com/deeptinirmalya/PortfolioProfessional.git
    ```
 
 2. **Open the project**:
